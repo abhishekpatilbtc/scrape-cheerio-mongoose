@@ -1,0 +1,22 @@
+{
+  "name": "scrape-cheerio-mongoose",
+  "version": "1.0.0",
+  "description": "A  web app that lets users view and leave comments on the latest news. The technology used are JavaScript/jQuery, Express, Mongoose and Cheerio to scrape news from another site.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekpatilbtc/scrape-cheerio-mongoose.git"
+  },
+  "keywords": [
+    "cheerio"
+  ],
+  "author": "Abhishek Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekpatilbtc/scrape-cheerio-mongoose/issues"
+  },
+  "homepage": "https://github.com/abhishekpatilbtc/scrape-cheerio-mongoose#readme"
+}
